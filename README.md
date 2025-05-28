@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/f29a8d5f-fd59-41ec-8155-f4a313b1acd8?raw=true" width="300" />
+  <img src="https://github.com/your-username/your-repo-name/blob/main/ehsan_computer_animation.gif?raw=true" width="300" />
 </p>
 
 ---![ehsan_computer_animation]()
