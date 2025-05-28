@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ehsan-esf0/EhsanEsfehani/blob/main/ehsan_computer_animation.gif?raw=true" width="300" />
+  <img src="https://github.com/user-attachments/assets/b686e208-c0f8-4684-a5bd-d649fa6c8f42" width="300" />
 </p>
-
 ---
 
 ## 👨‍🎓 About Me
