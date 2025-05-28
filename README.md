@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ehsan 👋</h1>
 
-<!--
-**ehsan-esf0/ehsan-esf0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  A passionate software and hardwar enthusiast and computer engineering student
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🎓 About Me
+
+- 🎓 Computer Engineering student at Ferdowsi University of Mashhad  
+- 💻 Experienced in **C++**, **PHP**, and formerly **C#**
+- 🌐 Intermediate frontend skills (HTML/CSS/JS)  
+- 🖼️ Familiar with **Qt Framework** for GUI development
+- 🔧 Passionate about software development, digital circuit design, and **Verilog** programming
+- ⚙️ Enjoy working with **Proteus**, microcontroller simulation, and hardware-level design
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Verilog](https://img.shields.io/badge/Verilog-00B2EE?style=for-the-badge&logo=verilog&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- 🌐 Portfolio/Website: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+<p align="center">
+  Made with ❤️ by Ehsan
+</p>
