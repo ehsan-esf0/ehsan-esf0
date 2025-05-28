@@ -5,11 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/ehsan_computer_animation.gif?raw=true" width="300" />
+  <img src="https://github.com/ehsan-esf0/EhsanEsfehani/blob/main/ehsan_computer_animation.gif?raw=true" width="300" />
 </p>
 
----![ehsan_computer_animation]()
-
+---
 
 ## 👨‍🎓 About Me
 
@@ -33,6 +32,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Verilog](https://img.shields.io/badge/Verilog-00B2EE?style=for-the-badge&logo=verilog&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EhsanEsfehani&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EhsanEsfehani&theme=radical" />
+</p>
 
 ---
 
