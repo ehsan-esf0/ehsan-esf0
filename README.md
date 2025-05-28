@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Ehsan 👋</h1>
 
 <p align="center">
-  A passionate software and hardwar enthusiast and computer engineering student
+  A passionate software and hardware enthusiast and computer engineering student
+</p>
+
+<p align="center">
+  <img src="https://i.redd.it/6tzv6v5jqru81.gif" width="300" />
 </p>
 
 ---
@@ -31,19 +35,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
-</p>
-
----
-
 ## 📫 Contact Me
 
-- 📧 Email: ehsanesfhany@gmail.com
-- 💼 LinkedIn: [ ehsan esfehani ](https://www.linkedin.com/in/ehsan-esfehani-067b45340/?trk=flagship3_open_to_hiring_creation_upsell)
+- 📧 Email: ehsanesfhany@gmail.com  
+- 💼 LinkedIn: [ehsan esfehani](https://www.linkedin.com/in/ehsan-esfehani-067b45340/?trk=flagship3_open_to_hiring_creation_upsell)
 
 ---
 
