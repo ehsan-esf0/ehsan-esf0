@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://i.redd.it/6tzv6v5jqru81.gif" width="300" />
+    <img src="https://github.com/user-attachments/assets/f29a8d5f-fd59-41ec-8155-f4a313b1acd8?raw=true" width="300" />
 </p>
 
----
+---![ehsan_computer_animation]()
+
 
 ## 👨‍🎓 About Me
 
