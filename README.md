@@ -42,9 +42,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 Portfolio/Website: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: ehsanesfhany@gmail.com
+- 💼 LinkedIn: [ ehsan esfehani ](https://www.linkedin.com/in/ehsan-esfehani-067b45340/?trk=flagship3_open_to_hiring_creation_upsell)
 
 ---
 
