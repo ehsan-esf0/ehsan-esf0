@@ -4,6 +4,8 @@
   A passionate software and hardware enthusiast and computer engineering student
 </p>
 
+![Snake Game Demo](https://github.com/username/repositoryname/raw/branchname/snake_demo.gif)
+
 ## 👨‍🎓 About Me
 
 - 🎓 Computer Engineering student at Ferdowsi University of Mashhad  
