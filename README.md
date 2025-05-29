@@ -41,8 +41,3 @@
   💼 <a href="https://www.linkedin.com/in/ehsan-esfehani-067b45340/" target="_blank">LinkedIn</a>
 </p>
 
----
-
-<p align="center" style="color:gray">
-  🎨 Designed with ❤️ by <strong>Ehsan</strong>
-</p>
