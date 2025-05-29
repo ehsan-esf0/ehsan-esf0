@@ -1,115 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Ehsan's Dino Game</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 0; padding: 0;
-    background: #f0f0f0;
-  }
-  h1 {
-    margin-top: 20px;
-  }
-  #game {
-    position: relative;
-    margin: 30px auto;
-    width: 600px;
-    height: 150px;
-    background: #fff;
-    border: 2px solid #333;
-    overflow: hidden;
-  }
-  #dino {
-    position: absolute;
-    bottom: 0;
-    left: 50px;
-    width: 40px;
-    height: 40px;
-    background: #444;
-    border-radius: 5px;
-  }
-  #obstacle {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    width: 20px;
-    height: 40px;
-    background: #888;
-    border-radius: 2px;
-    animation: moveObstacle 2s linear infinite;
-  }
-  @keyframes moveObstacle {
-    from { right: 0; }
-    to { right: 100%; }
-  }
-  .jump {
-    animation: jumpDino 0.5s ease;
-  }
-  @keyframes jumpDino {
-    0% { bottom: 0; }
-    50% { bottom: 80px; }
-    100% { bottom: 0; }
-  }
-  #score {
-    font-weight: bold;
-    margin-top: 10px;
-  }
-</style>
-</head>
-<body>
+<h1 align="center">Hi, I'm Ehsan 👋</h1>
 
-<h1>Hi, I'm Ehsan 👋</h1>
+<p align="center">
+  A passionate software and hardware enthusiast and computer engineering student
+</p>
 
-<div id="game">
-  <div id="dino"></div>
-  <div id="obstacle"></div>
-</div>
+## 👨‍🎓 About Me
 
-<div id="score">Score: 0</div>
+- 🎓 Computer Engineering student at Ferdowsi University of Mashhad  
+- 💻 Experienced in **C++**, **PHP**, and formerly **C#**
+- 🌐 Intermediate frontend skills (HTML/CSS/JS)  
+- 🖼️ Familiar with **Qt Framework** for GUI development
+- 🔧 Passionate about software development, digital circuit design, and **Verilog** programming
+- ⚙️ Enjoy working with **Proteus**, microcontroller simulation, and hardware-level design
 
-<script>
-  const dino = document.getElementById('dino');
-  const obstacle = document.getElementById('obstacle');
-  const scoreEl = document.getElementById('score');
-  let score = 0;
-  let isJumping = false;
+---
 
-  function jump() {
-    if (isJumping) return;
-    isJumping = true;
-    dino.classList.add('jump');
-    setTimeout(() => {
-      dino.classList.remove('jump');
-      isJumping = false;
-    }, 500);
-  }
+## 🛠️ Tech Stack & Skills
 
-  document.addEventListener('keydown', (e) => {
-    if (e.code === 'Space' || e.code === 'ArrowUp') {
-      jump();
-    }
-  });
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Verilog](https://img.shields.io/badge/Verilog-00B2EE?style=for-the-badge&logo=verilog&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  // Collision detection and score
-  setInterval(() => {
-    const dinoBottom = parseInt(window.getComputedStyle(dino).getPropertyValue('bottom'));
-    const obstacleRight = parseInt(window.getComputedStyle(obstacle).getPropertyValue('right'));
+---
 
-    // If obstacle is near dino horizontally
-    if (obstacleRight > 480 && obstacleRight < 520 && dinoBottom < 40) {
-      alert('Game Over! Your score: ' + score);
-      score = 0;
-      scoreEl.textContent = 'Score: ' + score;
-    } else if (obstacleRight === 0) {
-      score++;
-      scoreEl.textContent = 'Score: ' + score;
-    }
-  }, 50);
-</script>
+## 📫 Contact Me
 
-</body>
-</html>
+- 📧 Email: ehsanesfhany@gmail.com  
+- 💼 LinkedIn: [ehsan esfehani](https://www.linkedin.com/in/ehsan-esfehani-067b45340/?trk=flagship3_open_to_hiring_creation_upsell)
+
+---
+
+<p align="center">
+  Made with ❤️ by Ehsan
+</p>
