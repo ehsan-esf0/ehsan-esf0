@@ -1,50 +1,50 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Hi, I'm <span style="color:#0078D7;">Ehsan</span> 👋
+  👋 Hi there, I'm <span style="color:#007ACC;"><b>Ehsan</b></span>
 </h1>
 
-<p align="center" style="font-size:1.2rem; color:#444; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  A passionate <strong>Software & Hardware Enthusiast</strong> and <em>Computer Engineering Student</em>
+<p align="center" style="font-size:1.2rem; color:#444;">
+  💡 A creative mind in <b>Software</b> & <b>Hardware</b> engineering — building cool things from code to circuits!
 </p>
 
 ---
 
 ## 👨‍🎓 About Me
 
-- 🎓 Currently pursuing <strong>Computer Engineering</strong> at Ferdowsi University of Mashhad  
-- 💻 Proficient in <strong>C++</strong>, <strong>PHP</strong>, with prior experience in <strong>C#</strong>  
-- 🌐 Intermediate frontend skills: <code>HTML</code> / <code>CSS</code> / <code>JavaScript</code>  
-- 🖼️ Experienced with <strong>Qt Framework</strong> for building rich GUI applications  
-- 🔧 Passionate about software development, digital circuit design, and hardware programming with <strong>Verilog</strong>  
-- ⚙️ Skilled in using <strong>Proteus</strong> for microcontroller simulation and hardware-level design
+- 🧑‍🎓 Computer Engineering student at <strong>Ferdowsi University of Mashhad</strong>  
+- 💻 Passionate about coding in **C++**, **PHP** (and once upon a time in **C#**)  
+- 🌐 Intermediate web developer with **HTML**, **CSS**, and **JavaScript**  
+- 🖼️ GUI Designer using the **Qt Framework**  
+- 🧠 Love building **digital circuits** and writing **Verilog**  
+- 🔬 Tinkerer with **microcontroller simulations** (Proteus is my playground!)
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Verilog-00B2EE?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Qt_logo_2016.svg" width="45" alt="Qt" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Verilog_logo.svg" width="60" alt="Verilog" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
 </p>
 
 ---
 
-## 📫 Get In Touch
+## 📫 Let's Connect!
 
-<p align="center" style="font-size:1.1rem;">
-  📧 <a href="mailto:ehsanesfhany@gmail.com" style="text-decoration:none; color:#0078D7;">ehsanesfhany@gmail.com</a>  
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  💼 <a href="https://www.linkedin.com/in/ehsan-esfehani-067b45340/?trk=flagship3_open_to_hiring_creation_upsell" target="_blank" rel="noopener" style="text-decoration:none; color:#0078D7;">LinkedIn</a>
+<p align="center" style="font-size: 1.1rem;">
+  📧 <a href="mailto:ehsanesfhany@gmail.com" style="text-decoration:none;">ehsanesfhany@gmail.com</a>  
+  &nbsp;&nbsp;•&nbsp;&nbsp;  
+  💼 <a href="https://www.linkedin.com/in/ehsan-esfehani-067b45340/" target="_blank">LinkedIn</a>
 </p>
 
 ---
 
-<p align="center" style="font-style: italic; color:#555;">
-  Made with ❤️ by <strong>Ehsan</strong>
+<p align="center" style="color:gray">
+  🎨 Designed with ❤️ by <strong>Ehsan</strong>
 </p>
