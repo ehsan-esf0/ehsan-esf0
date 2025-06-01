@@ -21,7 +21,8 @@ public:
         this->education = "(B.Sc) student in Computer Engineering at Ferdowsi University";
     }
     void sayHi(){
-        cout << "Hello, my name is " << this->name << "A creative mind in Software & Hardware engineering — building cool things from code to circuits!" << endl;
+        cout << "Hello, my name is " << this->name
+<< "A creative mind in Software & Hardware engineering — building cool things from code to circuits!" << endl;
     }
 };
 int main()
