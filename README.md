@@ -2,10 +2,34 @@
   👋 Hi there, I'm <span style="color:#007ACC;"><b>Ehsan</b></span>
 </h1>
 
-<p align="center" style="font-size:1.2rem; color:#444;">
-  💡 A creative mind in <b>Software</b> & <b>Hardware</b> engineering — building cool things from code to circuits!
-</p>
+```cpp
+class ComputerEngineer
+{
+private:
+    string name;
+    string *skills;
+    string education;
 
+public:
+    ComputerEngineer(){
+        this->name = "Ehsan";
+        this->skills = new string[4]{
+            "C++",
+            "Php",
+            "Front-end",
+            "Verilog"};
+        this->education = "(B.Sc) student in Computer Engineering at Ferdowsi University";
+    }
+    void sayHi(){
+        cout << "Hello, my name is " << this->name << "A creative mind in Software & Hardware engineering — building cool things from code to circuits!" << endl;
+    }
+};
+int main()
+{
+    ComputerEngineer *ce = new ComputerEngineer();
+    ce->sayHi();
+}
+```
 ---
 
 ## 👨‍🎓 About Me
