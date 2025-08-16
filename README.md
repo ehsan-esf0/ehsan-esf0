@@ -1,13 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Ehsan**
-
 *A software & hardware enthusiast*
-
-[![Email](https://img.shields.io/badge/Email-ehsanesfhany%40gmail.com-informational?logo=gmail)](mailto:ehsanesfhany@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ehsan%20Esfehani-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ehsan-esfehani-067b45340/)
-[![OS](https://img.shields.io/badge/Linux-Lover-000?logo=linux)](#)
-
 </div>
 
 > Quick C++ snippet that introduces me ↓
