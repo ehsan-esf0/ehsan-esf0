@@ -14,9 +14,9 @@ int main() {
     std::cout << "Hi, I'm Ehsan!
 ";
 
-    const std::vector<std::string> langs{"C++", "Python", "C#"};
-    const std::vector<std::string> frameworks{"Qt (C++)", "PyQt/PySide"};
-    const std::vector<std::string> web{"PHP (backend)", "REST APIs", "Frontend (HTML/CSS/JS)"};
+    const std::vector<std::string> langs = {"C++", "Python", "C#"};
+    const std::vector<std::string> frameworks = {"Qt (C++)", "PyQt/PySide"};
+    const std::vector<std::string> web = {"PHP (backend)", "REST APIs", "Frontend (HTML/CSS/JS)"};
 
     auto print = [](const char* label, const std::vector<std::string>& v){
         std::cout << label;
