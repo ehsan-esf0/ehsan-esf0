@@ -82,13 +82,6 @@ int main() {
   <img src="https://img.shields.io/badge/SCM-Git-F05032?logo=git" alt="Git" />
 </p>
 
-## 📊 GitHub Stats (optional)
-
-> Replace `ehsan-esf0` with your actual GitHub username.
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
-
 ## 📫 Contact
 
 <p align="center">
