@@ -1,7 +1,5 @@
 <div align="center">
-
 # 👋 Hi, I'm **Ehsan**
-*A software & hardware enthusiast*
 </div>
 
 > Quick C++ snippet that introduces me ↓
