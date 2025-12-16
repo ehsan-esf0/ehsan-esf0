@@ -29,7 +29,7 @@ int main() {
     print("Languages:  ", langs);
     print("Frameworks: ", frameworks);
     print("Web:        ", web);
-    std::cout << "Interests:  Learning Game Dev, Hardware/Digital Design, and Networking. Linux lover.
+    std::cout << "Interests: Hardware and Networking. Linux lover.
 ";
 }
 ```
