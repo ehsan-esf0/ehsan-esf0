@@ -8,7 +8,7 @@
 
 ## 🧰 Tech Stack
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=2c3e50" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54&labelColor=2c3e50" />
   <img src="https://img.shields.io/badge/-Networking-FF6B6B?style=flat-square&logo=cisco&logoColor=white&labelColor=2c3e50" />
