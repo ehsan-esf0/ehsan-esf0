@@ -9,14 +9,14 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=2D2D2D" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=F7C922&logoColor=FFD43B" />
-  <br/>
-  <img src="https://img.shields.io/badge/Networking-FF6B6B?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4A4A4A" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/AVR-FF7F50?style=for-the-badge&logo=atmel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=2c3e50" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54&labelColor=2c3e50" />
+  <img src="https://img.shields.io/badge/-Networking-FF6B6B?style=flat-square&logo=cisco&logoColor=white&labelColor=2c3e50" />
+  <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white&labelColor=2c3e50" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white&labelColor=2c3e50" />
+  <img src="https://img.shields.io/badge/-AVR-FF7F50?style=flat-square&logo=atmel&logoColor=white&labelColor=2c3e50" />
 </p>
+
 
 ---
 
