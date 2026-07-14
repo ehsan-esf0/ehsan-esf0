@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-Networking-FF6B6B?style=flat-square&logo=cisco&logoColor=white&labelColor=2c3e50" />
   <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white&labelColor=2c3e50" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/-AVR-FF7F50?style=flat-square&logo=atmel&logoColor=white&labelColor=2c3e50" />
+  <img src="https://img.shields.io/badge/-PHP-FF7F50?style=flat-square&logo=atmel&logoColor=white&labelColor=2c3e50" />
 </p>
 
 
@@ -26,3 +26,4 @@
 - 🔹 Scripting & automation with **Python**
 - 🔹 Understanding **networking**
 - 🔹 Playing with **microcontrollers** (STM32)
+- 🔹 Website programming with PHP
